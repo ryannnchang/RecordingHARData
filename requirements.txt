@@ -1,0 +1,6 @@
+i2cdevice==1.0.0
+lsm6ds3==0.0.2
+RPi.GPIO==0.7.1
+smbus2==0.5.0
+sparkfun_qwiic_i2c==2.0.0
+
